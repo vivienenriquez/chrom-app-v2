@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1088827382896",
+    "firebase_url": "https://fyp-database-b3a2a.firebaseio.com",
+    "project_id": "fyp-database-b3a2a",
+    "storage_bucket": "fyp-database-b3a2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088827382896:android:862985ce079b1dd5c328b5",
+        "android_client_info": {
+          "package_name": "com.example.chronometer3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088827382896-8kecbbilsvtav89mgbbhiupjbsl0cmrv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chronometer3",
+            "certificate_hash": "4ea200a8f366c0c9443d7b0255d625abc87c2e97"
+          }
+        },
+        {
+          "client_id": "1088827382896-1rss3ct50a52738epp9bgs3p4go8rc10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG4FwacA7oMWNITCrldhh2YifDCg30Twc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088827382896-1rss3ct50a52738epp9bgs3p4go8rc10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
